@@ -10,6 +10,7 @@ _Español_
 * ¿Qué es una Red Neuronal? Parte 3.5 : Las Matemáticas de Backpropagation | DotCSV [video] http://bit.ly/2zAnOSU
 
 # MOOCs
+* Foundations of Machine Learning - Bloomberg [videos] http://bit.ly/2SORkgF
 * Machine Learning - Andrew Ng Course Coursera [video] http://bit.ly/2zAwOHM
 * Machine Learning for Coders - Jeremy Howard & Rachel Thomas https://course.fast.ai/ml
 * The Math of Intelligence - Siraj Raval [videos] http://bit.ly/2SVlzm8
@@ -18,4 +19,10 @@ _Español_
 # University Courses
 * Learning from data - Caltech Course  http://bit.ly/2SUfM07
 * Machine Learning - Stanford Course- http://bit.ly/2T07Iem
+
+# Free Books
+* Introduction to Statistical Leaning http://bit.ly/2SUTo6H
+* Elements of Statistical Learning https://stanford.io/2STpW0Z
+* Understanding Machine Learning From theory to algorithms http://bit.ly/2SWvlVc
+
 
