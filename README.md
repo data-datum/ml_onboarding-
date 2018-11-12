@@ -21,6 +21,7 @@ _Español_
 * Machine Learning - Stanford Course- http://bit.ly/2T07Iem
 
 # Free Books
+* Machine Learning Yearning _Andrew Ng_ 
 * Introduction to Statistical Leaning http://bit.ly/2SUTo6H
 * Elements of Statistical Learning https://stanford.io/2STpW0Z
 * Understanding Machine Learning From theory to algorithms http://bit.ly/2SWvlVc
