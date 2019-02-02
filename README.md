@@ -1,13 +1,15 @@
+Last update: 2/2/2019
 # How to get started in ML
 
 # Preliminar concepts
-_Español_
+_Canal de Divulgación de IA en español_
 * ¿Qué es el Machine Learning?¿Y Deep Learning? Un mapa conceptual | DotCSV [video] http://bit.ly/2zyV0dF
 * ¿Qué es el Aprendizaje Supervisado y No Supervisado? | DotCSV [video] http://bit.ly/2zyVnVB
 * ¿Qué es una Red Neuronal? Parte 1 : La Neurona | DotCSV [video] http://bit.ly/2zAnOSU
 * ¿Qué es una Red Neuronal? Parte 2 : La Red | DotCSV [video] http://bit.ly/2zKW5zd
 * ¿Qué es una Red Neuronal? Parte 3 : Backpropagation | DotCSV [video] http://bit.ly/2zAT4RH
 * ¿Qué es una Red Neuronal? Parte 3.5 : Las Matemáticas de Backpropagation | DotCSV [video] http://bit.ly/2zAnOSU
+* Montezuma's Revenge - ¿Hito del Aprendizaje Reforzado? | DotCSV [video] http://bit.ly/2G3FNqB
 
 # MOOCs
 * Foundations of Machine Learning - Bloomberg [videos] http://bit.ly/2SORkgF
